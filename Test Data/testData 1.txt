@@ -1,0 +1,41 @@
+{
+"type": "Flight",
+"Depart": "2023-03-01T15:51",
+"ETA": "2023-03-02T12:10",
+"carrierId": "Emirates", 
+"start_node": "LHR",
+"end_node": "DVO",
+"route":"LHR-DXB,DXB-MNL,MNL-DVO",
+"price": "2040.45",
+"currency": "GBP",
+"status": "Paid",
+"agency": "Scammer Travel",
+"agent":"Natalie Hawkins 506"
+"customerId":"John H Barton 331",
+"documentStatus":"Checked",
+"specialRequirements":"Plenty beer",
+"notes":"Bad tempered client",
+"luggage":"Hold 2, 50 Cabin 1 7"
+}
+,
+{
+"type": "Bus",
+"Depart": "2022-04-01T19:51",
+"ETA": "2022-04-01T21:30",
+"carrierId": "Quantum Entaglement Co", 
+"start_node": "Luton Central",
+"end_node": "Heaven, Main",
+"route":"LUTM-HVNM",
+"price": "5100.45",
+"currency": "USD",
+"status": "Quote",
+"agency": "Faster than Light Travel",
+"agent":"Grim reaper 2",
+"customerId":"Fallen Angel 1",
+"documentStatus":"Checked",
+"specialRequirements":"Harp",
+"notes":"Bruised ass when hit ground",
+"luggage":""
+}
+
+
